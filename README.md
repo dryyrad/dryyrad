@@ -1,7 +1,7 @@
-## NO! Stupid Radish Cannot Speak Anything!🤔
+## NO! Radish Cannot Speak Anything!🤔
 ### ***So... Talk to me in CODE!***
 -----------
-!!even cannot understand😄
+???: even cannot understand!!
 
 <!--
 **dryyrad/dryyrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
